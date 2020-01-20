@@ -1,0 +1,6 @@
+setup.py
+source/__init__.py
+vtiger1.egg-info/PKG-INFO
+vtiger1.egg-info/SOURCES.txt
+vtiger1.egg-info/dependency_links.txt
+vtiger1.egg-info/top_level.txt

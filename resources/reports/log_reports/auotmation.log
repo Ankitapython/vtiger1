@@ -1,0 +1,97 @@
+01/16/2020 11:14:18 AM -Login_Page -INFO: Eement not found with locatoruser_nameand locator Typeid
+01/16/2020 11:14:18 AM -Login_Page -INFO: Cannot send data on element with locator:user_namelocator Typeid
+01/16/2020 11:14:28 AM -Login_Page -INFO: Eement not found with locatoruser_passwordand locator Typeid
+01/16/2020 11:14:28 AM -Login_Page -INFO: Cannot send data on element with locator:user_passwordlocator Typeid
+01/16/2020 11:14:28 AM -Login_Page -INFO: locator typesubmitbuttonnot correct/supported
+01/16/2020 11:21:53 AM -Login_Page -INFO: Element not found with locatoradminand locator Typeid
+01/16/2020 11:21:53 AM -Login_Page -INFO: Cannot send data on element with locator:adminlocator Typeid
+01/16/2020 11:22:03 AM -Login_Page -INFO: Element not found with locatormanagerand locator Typeid
+01/16/2020 11:22:03 AM -Login_Page -INFO: Cannot send data on element with locator:managerlocator Typeid
+01/16/2020 11:23:53 AM -Login_Page -INFO: Element not found with locatoradminand locator Typeid
+01/16/2020 11:23:53 AM -Login_Page -INFO: Cannot send data on element with locator:adminlocator Typeid
+01/16/2020 11:24:03 AM -Login_Page -INFO: Element not found with locatormanagerand locator Typeid
+01/16/2020 11:24:03 AM -Login_Page -INFO: Cannot send data on element with locator:managerlocator Typeid
+01/16/2020 11:26:19 AM -Login_Page -INFO: Element not found with locatoradminand locator Typeid
+01/16/2020 11:26:19 AM -Login_Page -INFO: Cannot send data on element with locator:adminlocator Typeid
+01/16/2020 11:26:29 AM -Login_Page -INFO: Element not found with locatormanagerand locator Typeid
+01/16/2020 11:26:29 AM -Login_Page -INFO: Cannot send data on element with locator:managerlocator Typeid
+01/16/2020 11:26:29 AM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:26:37 AM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:36:29 AM -Login_Page -INFO: Element not found with locatoradminand locator Typeid
+01/16/2020 11:36:29 AM -Login_Page -INFO: Cannot send data on element with locator:adminlocator Typeid
+01/16/2020 11:36:39 AM -Login_Page -INFO: Element not found with locatormanagerand locator Typeid
+01/16/2020 11:36:39 AM -Login_Page -INFO: Cannot send data on element with locator:managerlocator Typeid
+01/16/2020 11:36:39 AM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:36:47 AM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:42:47 AM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 11:42:47 AM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 11:42:57 AM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 11:42:57 AM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 11:42:57 AM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:43:01 AM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:53:25 AM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 11:53:25 AM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 11:53:35 AM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 11:53:35 AM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 11:53:35 AM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 11:53:36 AM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:03:58 PM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 12:03:58 PM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 12:04:09 PM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 12:04:09 PM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 12:04:09 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:04:10 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:05:29 PM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 12:05:29 PM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 12:05:39 PM -Login_Page -INFO: Element not found with locatornameand locator Typeid
+01/16/2020 12:05:39 PM -Login_Page -INFO: Cannot send data on element with locator:namelocator Typeid
+01/16/2020 12:05:39 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:05:41 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:08:00 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/16/2020 12:08:00 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/16/2020 12:08:00 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/16/2020 12:08:01 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/16/2020 12:08:01 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 12:08:02 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 06:22:23 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/16/2020 06:22:23 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/16/2020 06:22:23 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/16/2020 06:22:23 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/16/2020 06:22:23 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 06:22:29 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 06:24:03 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/16/2020 06:24:03 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/16/2020 06:24:03 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/16/2020 06:24:03 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/16/2020 06:24:03 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/16/2020 06:24:05 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:13:07 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/17/2020 01:13:07 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/17/2020 01:13:07 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/17/2020 01:13:07 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/17/2020 01:13:07 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:13:14 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:29:41 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/17/2020 01:29:41 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/17/2020 01:29:41 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/17/2020 01:29:41 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/17/2020 01:29:41 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:29:48 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:32:18 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/17/2020 01:32:18 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/17/2020 01:32:18 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/17/2020 01:32:19 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/17/2020 01:32:19 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 01:32:24 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 03:07:12 PM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/17/2020 03:07:12 PM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/17/2020 03:07:12 PM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/17/2020 03:07:13 PM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/17/2020 03:07:13 PM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/17/2020 03:07:19 PM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
+01/19/2020 10:46:24 AM -Login_Page -INFO: Element found with locator:user_nameand locator Typename
+01/19/2020 10:46:24 AM -Login_Page -INFO: Sent data on element with locator:user_namelocator Typename
+01/19/2020 10:46:25 AM -Login_Page -INFO: Element found with locator:user_passwordand locator Typename
+01/19/2020 10:46:25 AM -Login_Page -INFO: Sent data on element with locator:user_passwordlocator Typename
+01/19/2020 10:46:25 AM -Login_Page -INFO: Element found with locator://input[@id='submitButton']and locator Typexpath
+01/19/2020 10:46:38 AM -Login_Page -INFO: Clicked on element with locator://input[@id='submitButton']and locator Typexpath
